@@ -1,0 +1,4 @@
+pypdf
+openpyxl
+# Optional (better table extraction):
+# pdfplumber
