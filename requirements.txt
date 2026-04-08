@@ -1,4 +1,4 @@
-pandas
-openpyxl
-pdfplumber
 pypdf
+openpyxl
+# Optional (better table extraction):
+# pdfplumber
